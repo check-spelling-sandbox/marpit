@@ -8,7 +8,7 @@ import marpitPlugin from '../plugin'
  * directives through HTML comment, Marpit will sweep paragraphs including only
  * whitespace by setting `hidden: true`.
  *
- * It also sweep the inline token marked as hidden forcefully. Please notice that
+ * It also sweeps the inline token marked as hidden forcefully. Please notice that
  * plugins executed after this cannot handle hidden inline tokens.
  *
  * @function sweep
